@@ -7,6 +7,14 @@ public class CreateChannel {
         if (x == 0) {
             System.out.println("equagitl");
         }
+        public static void main (String[]args){
+            String s = "a";
+            if (s.contains("a")) {
+                System.out.println("contains");
+            } else {
+                System.out.println("not");
+            }
+        }
     }
 }
 
